@@ -1,3 +1,9 @@
+#!/bin/sh
+
+# 這個script主要拷貝patch會用到的檔案
+# The script primarily copies the files required by the patch.
+# By Awaysu 2024
+
 export SOURCE_PATH=/home/awaysu/aosp/gtv/
 export PATCH_TOP_PATH=/home/awaysu/aosp/patch/
 
